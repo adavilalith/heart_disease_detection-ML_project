@@ -6,4 +6,4 @@ open the notebook in a google colab or jupyter
 include the dataset in the filesystem
 run the code
 
-![comparison of different ML algoritms](https://github.com/adavilalith/heart_disease_detection-ML_project/tree/main/src)
+![comparison of different ML algoritms](https://github.com/adavilalith/heart_disease_detection-ML_project/blob/main/src/ml%20algo%20comparision.png)
